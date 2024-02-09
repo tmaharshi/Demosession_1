@@ -1,4 +1,4 @@
 # Demosession_1
-First trail repositary
+First trail repository
 <br>
 Author: Maharshi Tunuguntla
